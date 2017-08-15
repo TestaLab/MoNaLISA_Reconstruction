@@ -7,8 +7,10 @@ The files and code in this repository are used for reconstruction of MoNaLISA da
 To use program, run GUI.m in your matlab console.
 
 Originally, it was based on the code supplied together with the paper:
+
 'Nanoscopy with more than a hundred thousand "doughnuts"' by Andriy Chmyrov et al.,
-that appeared in Nature Methods, 2013
+that appeared in Nature Methods, 2013'
+
 but now retains little resemblense with the original code.
 
 The following text is from the original distribution of the code supplied with the paper mentioned
