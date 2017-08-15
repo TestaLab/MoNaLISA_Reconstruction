@@ -13,9 +13,6 @@ that appeared in Nature Methods, 2013'
 
 but now retains little resemblense with the original code.
 
-The following text is from the original distribution of the code supplied with the paper mentioned
-above:
-
 
 
 Reference:
